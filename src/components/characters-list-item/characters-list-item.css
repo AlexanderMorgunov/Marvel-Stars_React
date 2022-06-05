@@ -1,0 +1,14 @@
+img{
+    max-width: 100%;
+}
+.card-body{
+    margin: 0;
+    padding-left: 0;
+    text-align: left;
+}
+h1{
+    text-align: left;
+}
+.container{
+    max-width: 1320px;
+}
